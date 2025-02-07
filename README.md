@@ -13,7 +13,6 @@ Data Source: The data used for this analysis includes historical sales data, pro
 
 ## Key Features
 ### SQL Queries: Advanced SQL queries used to extract and analyze sales data.
-https://github.com/Lindo-Jonas/sales-analysis/blob/main/SQL%20codes.sql
 
 ### Excel Dashboard: An interactive dashboard created in Excel to visualize key metrics and trends.
 
@@ -24,6 +23,7 @@ data_extraction.sql: Script to extract relevant sales data.
 data_analysis.sql: Script to perform exploratory data analysis (EDA) and calculate key metrics.
 
 advanced_queries.sql: Advanced SQL queries for deeper insights.
+https://github.com/Lindo-Jonas/sales-analysis/blob/main/SQL%20codes.sql
 
 ## Excel Files:
 
