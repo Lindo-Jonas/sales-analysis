@@ -7,9 +7,9 @@ Data Source: The data used for this analysis includes historical sales data, pro
 
 ## Tools Used:
 
-### SQL: For data extraction, transformation, and analysis.
+SQL: For data extraction, transformation, and analysis.
 
-### Excel: For data visualization and dashboard creation.
+Excel: For data visualization and dashboard creation.
 
 ## Key Features
 SQL Queries: Advanced SQL queries used to extract and analyze sales data.
