@@ -12,9 +12,9 @@ Data Source: The data used for this analysis includes historical sales data, pro
 ### Excel: For data visualization and dashboard creation.
 
 ## Key Features
-### SQL Queries: Advanced SQL queries used to extract and analyze sales data.
+SQL Queries: Advanced SQL queries used to extract and analyze sales data.
 
-### Excel Dashboard: An interactive dashboard created in Excel to visualize key metrics and trends.
+Excel Dashboard: An interactive dashboard created in Excel to visualize key metrics and trends.
 
 ## Project Components
 ### SQL Scripts:
@@ -28,6 +28,7 @@ https://github.com/Lindo-Jonas/sales-analysis/blob/main/SQL%20codes.sql
 ## Excel Files:
 
 ### Sales_Analysis.xlsx: The main Excel file containing the dashboard and visualizations.
+https://github.com/Lindo-Jonas/sales-analysis/blob/main/Final%20Sales%20Analysis%20Project.xlsx
 
 ### Raw_Data.csv: The raw data file used for analysis.
 https://github.com/Lindo-Jonas/sales-analysis/blob/main/retail%20sales.csv
