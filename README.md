@@ -1,32 +1,30 @@
 # Sales Analysis Project
 ## Overview
-This project involves a comprehensive sales analysis using SQL and Excel. The objective is to analyze product performance and sales trends over time, and present the findings in a visually appealing dashboard in Excel.
+This project analyzes sales data to uncover trends,profitability and key business insights. Usin SQL for data extraction and transformantion and Excel for visualization, I built a dynamic dashboard to help decision makers understand business perfomance.
 
-# Project Structure
-Data Source: The data used for this analysis includes historical sales data, product performance metrics, and yearly trends.
+# Tools & Technologies
 
-## Tools Used:
+### SQL:
+    For data extraction, transformation, and analysis.
 
-SQL: For data extraction, transformation, and analysis.
+### Excel:
+    For Pivot Tables, Charts and dashboard creation.
 
-Excel: For data visualization and dashboard creation.
+## Dataset
+Includes 1. Retail sales
+         2. Business.retailsales [2017-2019]
+Source: www.kaggle.com
 
-## Key Features
-SQL Queries: Advanced SQL queries used to extract and analyze sales data.
-
-Excel Dashboard: An interactive dashboard created in Excel to visualize key metrics and trends.
+## Key Insights and Metrics
+Total Sales
+Total Sales Returns
+Year on Year (Y-O-Y) Perfomance
 
 ## Project Components
 ### SQL Scripts:
-data_extraction.sql: Script to extract relevant sales data.
-
-data_analysis.sql: Script to perform exploratory data analysis (EDA) and calculate key metrics.
-
-advanced_queries.sql: Advanced SQL queries for deeper insights.
 https://github.com/Lindo-Jonas/sales-analysis/blob/main/SQL%20codes.sql
 
 ### Excel Files:
-
 #### Sales_Analysis.xlsx: The main Excel file containing the dashboard and visualizations.
 https://github.com/Lindo-Jonas/sales-analysis/blob/main/Final%20Sales%20Analysis%20Project.xlsx
 
@@ -35,13 +33,7 @@ https://github.com/Lindo-Jonas/sales-analysis/blob/main/retail%20sales.csv
 
 https://github.com/Lindo-Jonas/sales-analysis/blob/main/business.retailsales2.csv
 
-## Dashboard Overview
+### Dashboard Preview
 https://github.com/Lindo-Jonas/sales-analysis/blob/main/Final%20Dashboard.png
-The Excel dashboard provides the following insights:
 
-Product Performance: Total quantity sold, total gross sales, total discount, total sales returns, and total net sales by product category.
-
-Yearly Trends: Year-on-year performance, total sales, total returns, and shipping costs over the years.
-
-Top-Performing Products: Identifies the best and worst performing product categories.
 
