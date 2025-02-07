@@ -11,14 +11,14 @@ This project analyzes sales data to uncover trends,profitability and key busines
     For Pivot Tables, Charts and dashboard creation.
 
 ## Dataset
-Includes 1. Retail sales
-         2. Business.retailsales [2017-2019]
-Source: www.kaggle.com
+Includes ####1. Retail sales
+         ####2. Business.retailsales [2017-2019]
+####Source: www.kaggle.com
 
 ## Key Insights and Metrics
-Total Sales
-Total Sales Returns
-Year on Year (Y-O-Y) Perfomance
+#### Total Sales
+#### Total Sales Returns
+#### Year on Year (Y-O-Y) Perfomance
 
 ## Project Components
 ### SQL Scripts:
