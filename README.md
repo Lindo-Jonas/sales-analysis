@@ -31,6 +31,7 @@ https://github.com/Lindo-Jonas/sales-analysis/blob/main/SQL%20codes.sql
 
 ### Raw_Data.xlsx: The raw data file used for analysis.
 https://github.com/Lindo-Jonas/sales-analysis/blob/main/retail%20sales.csv
+https://github.com/Lindo-Jonas/sales-analysis/blob/main/business.retailsales2.csv
 
 ## Dashboard Overview
 The Excel dashboard provides the following insights:https://github.com/Lindo-Jonas/sales-analysis/blob/main/Final%20Dashboard.png
