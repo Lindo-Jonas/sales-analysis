@@ -25,12 +25,12 @@ data_analysis.sql: Script to perform exploratory data analysis (EDA) and calcula
 advanced_queries.sql: Advanced SQL queries for deeper insights.
 https://github.com/Lindo-Jonas/sales-analysis/blob/main/SQL%20codes.sql
 
-## Excel Files:
+### Excel Files:
 
-### Sales_Analysis.xlsx: The main Excel file containing the dashboard and visualizations.
+#### Sales_Analysis.xlsx: The main Excel file containing the dashboard and visualizations.
 https://github.com/Lindo-Jonas/sales-analysis/blob/main/Final%20Sales%20Analysis%20Project.xlsx
 
-### Raw_Data.csv: The raw data file used for analysis.
+#### Raw_Data.csv: The raw data file used for analysis.
 https://github.com/Lindo-Jonas/sales-analysis/blob/main/retail%20sales.csv
 
 https://github.com/Lindo-Jonas/sales-analysis/blob/main/business.retailsales2.csv
