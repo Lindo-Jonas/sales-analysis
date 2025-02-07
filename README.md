@@ -36,10 +36,12 @@ https://github.com/Lindo-Jonas/sales-analysis/blob/main/retail%20sales.csv
 https://github.com/Lindo-Jonas/sales-analysis/blob/main/business.retailsales2.csv
 
 ## Dashboard Overview
-The Excel dashboard provides the following insights:https://github.com/Lindo-Jonas/sales-analysis/blob/main/Final%20Dashboard.png
+https://github.com/Lindo-Jonas/sales-analysis/blob/main/Final%20Dashboard.png
+The Excel dashboard provides the following insights:
 
 Product Performance: Total quantity sold, total gross sales, total discount, total sales returns, and total net sales by product category.
 
 Yearly Trends: Year-on-year performance, total sales, total returns, and shipping costs over the years.
 
 Top-Performing Products: Identifies the best and worst performing product categories.
+
