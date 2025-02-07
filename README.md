@@ -1,6 +1,6 @@
 # Sales Analysis Project
 ## Overview
-This project analyzes sales data to uncover trends,profitability and key business insights. Usin SQL for data extraction and transformantion and Excel for visualization, I built a dynamic dashboard to help decision makers understand business perfomance.
+This project analyzes sales data to uncover trends,profitability and key business insights. Using SQL for data extraction and transformantion and Excel for visualization, I built a dynamic dashboard to help decision makers understand business perfomance.
 
 # Tools & Technologies
 
