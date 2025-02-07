@@ -31,7 +31,7 @@ advanced_queries.sql: Advanced SQL queries for deeper insights.
 ### Raw_Data.xlsx: The raw data file used for analysis.
 
 ## Dashboard Overview
-The Excel dashboard provides the following insights:
+The Excel dashboard provides the following insights:https://github.com/Lindo-Jonas/sales-analysis/blob/main/Final%20Dashboard.png
 
 Product Performance: Total quantity sold, total gross sales, total discount, total sales returns, and total net sales by product category.
 
