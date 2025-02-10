@@ -38,5 +38,6 @@ https://github.com/Lindo-Jonas/sales-analysis/blob/main/business.retailsales2.cs
 https://github.com/Lindo-Jonas/sales-analysis/blob/main/Final%20Dashboard.png
 
 ## Sales Analysis Report
+https://github.com/Lindo-Jonas/sales-analysis/blob/main/Final%20Sale%20Report.pdf
 
 
